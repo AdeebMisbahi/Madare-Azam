@@ -7,7 +7,6 @@ export const LINKS = [
       { name: 'Shajra', to:'/', },
       { name: 'Alqabat', to:'/', },
       { name: 'Books', to: '/',},
-      
      ]
     },
     {name: 'Khadim Sajjada Nashin', to: '/',
