@@ -5,7 +5,7 @@ export const LINKS = [
      sub_LINKS: [
       { name:'Introduction', to:'/', },
       { name: 'Shajra', to:'/', },
-      { name: 'Alqabat', to:'/', },
+      { name: 'Alqabaat', to:'/', },
       { name: 'Books', to: '/',},
      ]
     },
